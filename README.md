@@ -1,6 +1,6 @@
  
 # :money_with_wings: ShinobuClipper
-Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, DASH addresses in clipboard.
+Replace any BTC, XMR, XLM, ETH, XRP, LTC, BCH, NEC, ZCASH, DASH, DOGE, WMR, WMG, WMZ, WMH, WMU, WMX, Yandex money, Qiwi addresses in clipboard.
 
 # :star2: Info
  - [X] 9 kilobytes compiled executable

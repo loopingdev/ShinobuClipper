@@ -2,35 +2,37 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Общие сведения об этой сборке предоставляются следующим набором
-// набора атрибутов. Измените значения этих атрибутов для изменения сведений,
-// связанные с этой сборкой.
+// Informasi umum tentang perakitan ini disediakan oleh set berikut
+ // kumpulan atribut.  Ubah nilai atribut ini untuk mengubah informasi,
+ // terkait dengan majelis ini.
+
 [assembly: AssemblyTitle("Google")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Google Chrome")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Google PTE LTD")]
 [assembly: AssemblyProduct("Google updater")]
-[assembly: AssemblyCopyright("Copyright LimerBoy © 2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCopyright("Copyright Loufre Jugre© 2020")]
+[assembly: AssemblyTrademark("Google")]
 [assembly: AssemblyCulture("")]
 
-// Установка значения False для параметра ComVisible делает типы в этой сборке невидимыми
-// для компонентов COM. Если необходимо обратиться к типу в этой сборке через
-// из модели COM задайте для атрибута ComVisible этого типа значение true.
-[assembly: ComVisible(false)]
+// Setting ComVisible menjadi False membuat tipe dalam assembly ini tidak terlihat
+ // untuk komponen COM.  Jika Anda perlu merujuk ke tipe di assembly ini melalui
+ // Dari COM, setel atribut ComVisible jenis ini ke true.
+ [assembly: ComVisible (false)]
 
-// Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("9debd99e-2b66-47b6-a327-36c777e380ef")]
+ // GUID berikut mewakili pengenal typelib jika proyek ini dapat diakses dari model COM
+ [perakitan: Panduan ("9debd99e-2b66-47b6-a327-36c777e380ef")]
 
-// Сведения о версии сборки состоят из указанных ниже четырех значений:
-//
-//      Основной номер версии
-//      Дополнительный номер версии
-//      Номер сборки
-//      Номер редакции
-//
-// Можно задать все значения или принять номера сборки и редакции по умолчанию 
-// используя "*", как показано ниже:
+ // Informasi versi perakitan terdiri dari empat nilai berikut:
+ //
+ // Nomor versi utama
+ // Nomor versi minor
+ // Bangun nomor
+ // Nomor revisi
+ //
+ // Anda dapat menyetel semua nilai atau menerima nomor build dan revisi default
+ // menggunakan "*" seperti yang ditunjukkan di bawah ini:
+
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
